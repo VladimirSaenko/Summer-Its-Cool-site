@@ -8,6 +8,8 @@
 
 .item {
     border: 1px solid black;
+    /* cursor: default; */
+    cursor: pointer;
     height: 100vh;
     display: flex;
     flex-basis: 25%;
@@ -30,20 +32,20 @@ span {
 }
 
 .item-1 {
-    background: url(/img/1.jpg) center;
+    background: url(img/1.jpg) center;
     background-size: cover;
 }
 .item-2 {
-    background: url(/img/2.jpg) center;
+    background: url(img/2.jpg) center;
     background-size: cover;
 }
 
 .item-3 {
-    background: url(/img/3.jpg) center;
+    background: url(img/3.jpg) center;
     background-size: cover;
 }
 
 .item-4 {
-    background: url(/img/4.jpg) center;
+    background: url(img/4.jpg) center;
     background-size: cover;
 }
