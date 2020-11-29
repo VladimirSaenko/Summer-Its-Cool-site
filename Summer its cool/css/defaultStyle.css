@@ -2,20 +2,25 @@
   box-sizing: border-box;
 }
 
-body{
+body {
   margin: 0;
   font-family: 'Bad Script', sans-serif;
 }
 
 @media (max-width: 640px){
-  .slider{
+
+  .slider {
     height: 100vh;
     flex-direction: column;
   }
-  .item{
-      width: 100%;
+  .item {
+    width: 100%;
+    user-select: none;
+    cursor: none;
   }
+
   .item:hover{
       flex-grow: 30%;
   }
+
 }

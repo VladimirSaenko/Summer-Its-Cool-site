@@ -3,7 +3,6 @@
 .slider {
     display: flex;
     justify-content: center;
-
 }
 
 .item {
@@ -20,10 +19,8 @@
 }
 
 .item:hover {
-    flex-basis: 70%;
-    
+    flex-basis: 70%;   
 }
-
 
 span {
     color: white;
@@ -35,6 +32,7 @@ span {
     background: url(../img/1.jpg) center;
     background-size: cover;
 }
+
 .item-2 {
     background: url(../img/2.jpg) center;
     background-size: cover;
