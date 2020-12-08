@@ -4,4 +4,3 @@
 
  #"Summer its cool !"
  
- P.S Баг исправлен
