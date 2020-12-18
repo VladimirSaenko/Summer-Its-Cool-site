@@ -1,6 +1,6 @@
-# Site "Summer" example
+# Summer-Its-Cool-site
  
-Пример сайта про лето с интересной фичей
+Сайт про лето с интересной фичей
 
  #"Summer its cool !"
  
