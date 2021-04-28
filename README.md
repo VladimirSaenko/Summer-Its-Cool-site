@@ -6,6 +6,8 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/in
 
 }
 
+![2342 — копия (3)](https://user-images.githubusercontent.com/56477695/116460908-44435900-a870-11eb-96b2-a5bd9efa6ab4.jpg)
+
 Все времена года {
 
 https://vladimirsaenko.github.io/All-Seasons-Year-site/
