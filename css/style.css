@@ -3,7 +3,6 @@
     user-select: none;
 } */
 
-
 .slider {
     display: flex;
     justify-content: center;
@@ -56,4 +55,27 @@ span {
 .item-4 {
     background: url(../img/4.jpg) center;
     background-size: cover;
+}
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translateX(100%);
+    animation: rolling 5s infinite;
+    z-index: 1000;
+}
+
+.preloader.finish {
+    display: none;
+}
+
+@keyframes rolling {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }

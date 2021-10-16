@@ -13,11 +13,11 @@ body {
 }
 
 @media (max-width: 640px) {
-
   .slider {
     height: 100vh;
     flex-direction: column;
   }
+
   .item {
     width: 100%;
     user-select: none;
