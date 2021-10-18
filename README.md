@@ -5,7 +5,7 @@
 
 ## Portfolio {
  
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-1/Summer%20its%20cool/index.html
 
 ### }
 
@@ -15,6 +15,6 @@
 
 ### https://github.com/VladimirSaenko/All-Seasons-Year-site.git
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%20site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/All%20Seasons%20Year%20site/index.html
 
 ### }
